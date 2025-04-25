@@ -100,6 +100,7 @@ Add your .jpg images to /public/textures/ and you're done!
 
 ## 🧑‍🎨 Gallery
 
+https://github.com/aimetamere/3Dbookvisu/blob/main/Enregistrement%20de%20l%E2%80%99e%CC%81cran%202025-04-22%20a%CC%80%2010.29.35.gif
 
 ## 📚 Credits & Inspirations
 
