@@ -5,7 +5,7 @@ I'm passionate about building real-time, interactive web applications using Next
 
 ## 📖✨ 3Dbookvisu
     
-    "Because flipping through memories should feel like magic."
+    "Because flipping through memories should feel like magic🧙‍♂️"
 
 3Dbookvisu is an immersive 3D photo book built with React, Three.js, and Vite — blending interactivity, animation, and nostalgia into one virtual experience.
 
