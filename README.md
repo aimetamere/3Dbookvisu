@@ -52,10 +52,10 @@ git clone https://github.com/aimetamere/3Dbookvisu.git
 cd 3Dbookvisu
 
 # install dependencies
-npm install
+yarn install
 
 # run the project
-npm run dev
+yarn run dev
 
 ```
 Now open your browser at http://localhost:5173 and enjoy the magic ✨
