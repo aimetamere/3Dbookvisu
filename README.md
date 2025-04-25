@@ -147,9 +147,19 @@ This sets your image as the full 3D background and lighting source. Make sure it
 
 * Mobile support + gyroscope interaction
 
-## 🧑‍🎨 Gallery
+## 🚀 Deployment
 
-https://github.com/aimetamere/3Dbookvisu/blob/main/Enregistrement%20de%20l%E2%80%99e%CC%81cran%202025-04-22%20a%CC%80%2010.29.35.gif
+The 3D Book Visualization project is deployed on Vercel, offering a seamless and responsive user experience directly in the browser. You can access the live version of the app below:
+
+[Live Demo: 3D Book Visualization](https://3-dbookvisu-b3m3xt7ww-nicolas-projects-93e9a5a9.vercel.app/)
+
+# 🔧 Deployment Details:
+
+Hosting: Vercel
+
+Frontend: Built with React and Three.js for interactive 3D rendering.
+
+CI/CD: Automatically deployed on Vercel via GitHub with every push to the main branch.
 
 ## 📚 Credits & Inspirations
 
