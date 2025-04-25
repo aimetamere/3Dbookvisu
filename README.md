@@ -90,6 +90,55 @@ const pictures = [
 ```
 Add your .jpg images to /public/textures/ and you're done!
 
+## 🌌 Changing the Background
+
+Want a different vibe than the default studio? You can easily swap out the background or even add your own 3D environment.
+
+# 🔁 Option 1: Use a Different Preset
+
+Inside Experience.jsx, you'll find this line:
+
+```
+<Environment preset="studio" />
+```
+Change the "studio" preset to any of these available options:
+
+* "sunset"
+
+* "dawn"
+
+* "night"
+
+* "warehouse"
+
+* "forest"
+
+* "apartment"
+
+* "city"
+
+* "park"
+
+For example:
+```
+<Environment preset="sunset" />
+```
+📸 Instantly gives your book a warm evening glow!
+
+# 🌍 Option 2: Use a Custom HDRI
+
+1. Get a .hdr environment map from websites like polyhaven.com
+
+2. Place the file in your /public directory.
+
+3. Import and use it like this:
+
+```
+<Environment files="/your-hdri.hdr" background />
+
+```
+This sets your image as the full 3D background and lighting source. Make sure it’s a .hdr file for the best results.
+
 ## 🧙‍♂️ Future Ideas
 
 * Incorporate hover tooltips with photo metadata
